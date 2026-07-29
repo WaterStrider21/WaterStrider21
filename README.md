@@ -43,6 +43,17 @@ above maximum, out of stock.
 :star: Associate of Science in Accounting from Harper College
 
 :star: Bachelor of Science in Computer Science from WGU
+## Certifications
+
+[Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/professional-cert/DP4DR5W649YC)
+
+[Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000678337/va7h6d5sr2)
+
+ITIL Foundations of IT Service Management Certification 1.30.2026
+
+Accounting Assistant Certificate
+
+Bookkeeping Certificate
 
 ## Skills
 Programming, Analysis : Java, SQL, TypeScript, JavaScript, Python
@@ -57,7 +68,6 @@ View my [Resume](https://github.com/WaterStrider21/Portfolio/blob/54df1e964f7fc5
 
 ## Contact
 Email: mledale2105@gmail.com
-Phone: 847-850-9725
 
 <!--
 **WaterStrider21/WaterStrider21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
