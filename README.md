@@ -1,12 +1,10 @@
 ## Hi there 👋 I'm Emily
 
 <p>
-  <a href="https://codepen.io/waterstrider21"><img src="CodePen_logo.png" alt="CodePen" height="18"></a>
-  <a href="https://www.linkedin.com/in/emily-l-498871115/"><img src="LI-Logo.png" alt="LinkedIn" height="18"></a>
-  <a href="https://github.com/WaterStrider21"><img src="GitHub_Invertocat_Black.png" alt="GitHub" height="18"></a>
+  <a href="https://codepen.io/waterstrider21"><img src="codepen.png" alt="CodePen" height="18"></a> :star2:
+  <a href="https://www.linkedin.com/in/emily-l-498871115/"><img src="LI-Logo.png" alt="LinkedIn" height="18"></a> :star2:
+  <a href="https://github.com/WaterStrider21"><img src="GitHub_Invertocat_White.png" alt="GitHub" height="20"></a>
 </p>
-
-<img align="left" src="selfie.jpeg" alt="selfie" height="300">
 
 My core expertise spans EDI process optimization, and business data integration using tools such as SAP and Teradata SQL.
 
@@ -14,7 +12,7 @@ In addition to my EDI and data analysis responsibilities, I have been building a
 
 These projects reflect my growing focus on full-stack development using HTML, CSS, Typescript, JavaScript, Python, Java, and SQL to create efficient, user-focused applications.
 
-I am available for new opportunities in the technology and Fintech sectors.
+I am available for new opportunities in the technology and fintech sectors.
 <br clear="left">
   
 ## Projects
@@ -42,9 +40,9 @@ above maximum, out of stock.
 ✅ Converts a number into a time string by flooring it, rejects negatives, and adds a leading zero when needed. It also converts a total number of seconds into an object with hours, minutes, and seconds.
 
 ## Education
-★ Associate of Science in Accounting from Harper College
+:star: Associate of Science in Accounting from Harper College
 
-★ Bachelor of Science in Computer Science from WGU
+:star: Bachelor of Science in Computer Science from WGU
 
 ## Skills
 Programming, Analysis : Java, SQL, TypeScript, JavaScript, Python
