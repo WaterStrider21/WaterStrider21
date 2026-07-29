@@ -93,5 +93,6 @@ View my [Resume](https://github.com/WaterStrider21/Portfolio/blob/54df1e964f7fc5
 
 ## Contact
 Email: mledale2105@gmail.com
+
 Buy me a [Kofi](https://ko-fi.com/emilyflame94)
 
