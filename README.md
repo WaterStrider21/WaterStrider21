@@ -21,7 +21,7 @@ I am available for new opportunities in the technology and fintech sectors.
 🛒
 <a href="https://www.youtube.com/watch?v=zy6yjjl9pjU">Video</a>
 
-✅ A full-stack e-commerce application that was built using Java and HTML 
+✅ Spring Boot backend with Java; HTML frontend; inventory and purchase workflows.
 
 ✅The backend includes a product repository, with controllers that validate when inventory is below minimum, 
 above maximum, out of stock.
@@ -49,12 +49,8 @@ above maximum, out of stock.
 
 🌦️ The predictive weather machine learning model implements a decision tree regression algorithm on test data.
 
-🌦️ The data is then optimized using a grid search and randomized search. The data is regularized using random 
-forest and gradient boosting regressor and evaluated based on the mean squared error and R2 score.
+🌦️ The data is then optimized using a grid search and randomized search. Compared Decision Tree, Random Forest, and Gradient Boosting models, using hyperparameter tuning through GridSearchCV and RandomizedSearchCV.
 
-🌦️ The optimized model’s output can inform future predictions and model refinement in several ways. Using the 
-gradient boosting model can support public health decisions, such as issuing health advisories or allocating 
-resources to high-risk days
 
 🌧️ Results:  
 o Original Decision Tree -> RMSE: 0.6192, R-squared: -0.3646
